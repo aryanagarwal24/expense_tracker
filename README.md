@@ -15,8 +15,8 @@ A simple and responsive Expense Tracker web app built with HTML, CSS, and JavaSc
 ## 🛠️ Technologies Used
 
 - HTML5
-- CSS3 (Dark Mode Styling)
-- JavaScript (Vanilla)
+- CSS 
+- JavaScript
 - `localStorage` API
 
 ---
