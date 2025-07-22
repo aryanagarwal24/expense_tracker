@@ -25,4 +25,4 @@ A simple and responsive Expense Tracker web app built with HTML, CSS, and JavaSc
 ├── index.html # Main HTML file
 ├── styles1.css # CSS styles
 ├── script4.js # JavaScript logic
-└── README.md # You're here!
+└── README.md  
